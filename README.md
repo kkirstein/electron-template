@@ -1,2 +1,3 @@
 # electron-template
-A project template for an desktop application based on the electron framework
+
+A project template for an desktop application based on the [electron framework](http://electron.atom.io/)
