@@ -1,0 +1,20 @@
+{
+	"name": "electron_template",
+	"version": "0.1.0",
+	"description": "A template for a desktop application, build on the Electron framework",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"app",
+	"demo"
+		],
+	"author": "Kay-Uwe Kirstein",
+	"license": "MIT",
+	"jshintConfig": {
+		"node": true,
+		"esversion": 6
+	}
+}
